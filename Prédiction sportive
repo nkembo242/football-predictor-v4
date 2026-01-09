@@ -1,4 +1,4 @@
-cd /home/nkembo242/v4_ml_predictor
+cd /home/user/v4_ml_predictor
 git remote add origin https://github.com/nkembo242/football-predictor-v4.git
 git branch -M main
 git push -u origin main
